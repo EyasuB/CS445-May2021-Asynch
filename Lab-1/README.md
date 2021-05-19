@@ -5,3 +5,5 @@ and manage project tasks seamlessly.
 //It's distributed architechture enabls us to have our version of 
 a project and work on it while collaborating with a team of software developers 
 
+Git along with Github(as a remote host/sharing service) to add to projects, make commits,
+backtrack previous commits and merge to other contributions 
