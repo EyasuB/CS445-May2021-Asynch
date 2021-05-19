@@ -9,3 +9,6 @@ Git along with Github(as a remote host/sharing service) to add to projects, make
 backtrack previous commits and merge to other contributions 
 # Git utilizes linux commnads or windows-cmd command to effectively execute taks
 # The most used commands are ACP (add, commit and push) 
+
+# These are the list of screenshots for each practice! 
+![Adding]()
