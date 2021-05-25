@@ -1,0 +1,55 @@
+/**
+ *
+ * ASCIImation Project
+ *
+ * This project is an ASCII animation viewer.
+ * Just playing around with ASCII by animating it.
+ *
+ * Created by Winnie Verzosa
+ * Website: http://winnieverzosa.com
+ * Portfolio: http://winnieverzosa.com/resume
+ * LinkedIn: https://www.linkedin.com/in/winnieverzosa
+ * GitHub: https://github.com/winnieverzosa
+ *
+ */
+
+body{
+    background-color: #eee;
+    font-family: sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+div{
+    text-align: center;
+}
+
+
+#txtarea{
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+
+.navbar {
+    background-color: #1976d2;
+    border-radius: 0;
+}
+
+h2 {
+    margin-top:10px;
+    color: white;
+}
+
+.content{
+    margin-top: 20px;
+}
+
+.panel {
+    background-color: #ccc;
+}
+
+fieldset{
+    padding:10px;
+}
